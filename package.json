@@ -1,10 +1,10 @@
 {
-  "name": "jamz",
+  "name": "voice",
   "version": "0.0.0",
-  "homepage": "https://github.com/dominictarr/jamz",
+  "homepage": "https://github.com/dominictarr/voice",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dominictarr/jamz.git"
+    "url": "git://github.com/dominictarr/voice.git"
   },
   "dependencies": {
     "baudio": "0.1.2",
