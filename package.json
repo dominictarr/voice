@@ -1,0 +1,21 @@
+{
+  "name": "jamz",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dominictarr/jamz",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/jamz.git"
+  },
+  "dependencies": {
+    "baudio": "0.1.2",
+    "inherits": "1.0.0"
+  },
+  "devDependencies": {
+    "tap": "0.3.0"
+  },
+  "scripts": {
+    "test": "tap test"
+  },
+  "author": "'Dominic Tarr' <dominic.tarr@gmail.com> (http://dominictarr.com)",
+  "license": "MIT"  
+}
